@@ -7,8 +7,6 @@ media to my Synology FileStation, and a website that displays this media.
 | :----------------------------------: | :------------------------: |
 | ![Bot commands](assets/commands.png) | ![Web](assets/website.png) |
 
-(The photos were uploaded for demonstration purposes, that's not me)
-
 ## Setup
 
 ### Prerequisites
